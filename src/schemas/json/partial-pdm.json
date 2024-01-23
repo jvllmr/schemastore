@@ -254,7 +254,7 @@
     "distribution": {
       "type": "boolean",
       "description": "Whether the project needs to be distributed",
-      "default": false
+      "default": true
     },
     "ignore_package_warnings": {
       "type": "array",
